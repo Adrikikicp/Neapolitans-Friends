@@ -20,7 +20,7 @@ Windows 11 SDK (10.0.22000.0)
 
 2. Clone the repository
 
-```bash
+```shell
 
 git clone https://github.com/adrikikicp/Neapolitans-Friends.git
 
